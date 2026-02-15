@@ -1,0 +1,17 @@
+# node_modules
+node_modules/
+
+# env files
+.env
+.env.local
+
+# logs
+logs
+*.log
+npm-debug.log*
+
+# upload files
+uploads/
+
+# OS metadata
+.DS_Store
